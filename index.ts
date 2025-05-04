@@ -1,4 +1,4 @@
-let userName = "sara"
+let userName = "sara mostafa elhadad"
 
 
-let newS = 30;
+let age  = 30;
